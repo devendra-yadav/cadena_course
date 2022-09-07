@@ -1,0 +1,23 @@
+{
+  "name": "cadena_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendra-yadav/cadena_course.git"
+  },
+  "author": "devendra.yadav@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devendra-yadav/cadena_course/issues"
+  },
+  "homepage": "https://github.com/devendra-yadav/cadena_course#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.11.1"
+  }
+}
